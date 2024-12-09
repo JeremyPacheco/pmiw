@@ -1,3 +1,6 @@
+//https://youtu.be/c6mFCyEn6cU
+//nota:hola profe perdon, se me hizo un poco mas largo el video espero que no haya problemas trate de ser lo mas corto posible, tratare de abordar el resto o lo faltante en la defensa.
+//88250/3 Jeremy Pacheco
 let juego;
 let imagenesEnemigo= [];
 let imagenesPersonaje= [];
